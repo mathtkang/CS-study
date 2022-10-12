@@ -6,3 +6,5 @@ void main()
     int *pa[] = {a, b};
     printf("%d", *(pa[1] + 1));
 }
+
+// 여기 다시
